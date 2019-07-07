@@ -1,36 +1,32 @@
-## Welcome to GitHub Pages
+## Privacy policy
 
-You can use the [editor on GitHub](https://github.com/UmarAuna/Privacy-Policy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This privacy policy ("Policy") describes how Website Operator ("Website Operator", "we", "us" or "our") collects, protects and uses the personally identifiable information ("Personal Information") you ("User", "you" or "your") may provide on the  [website](https://umarauna.github.io/Privacy-Policy/) and any of its products or services (collectively, "Website" or "Services"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Collection of personal information
 
-### Privacy policy
+## Collection of non-personal information
 
-This privacy policy ("Policy") describes how Website Operator ("Website Operator", "we", "us" or "our") collects, protects and uses the personally identifiable information ("Personal Information") you ("User", "you" or "your") may provide on the https://umarauna.github.io/Privacy-Policy/ website and any of its products or services (collectively, "Website" or "Services"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
-```markdown
-Syntax highlighted code block
+## Use of collected information
 
-# Header 1
-## Header 2
-### Header 3
+## Children
 
-- Bulleted
-- List
+## Newsletters
 
-1. Numbered
-2. List
+## Advertisement
 
-**Bold** and _Italic_ and `Code` text
+## Links to other websites
 
-[Link](url) and ![Image](src)
-```
+## Information security
+
+## Data breach
+
+## Legal disclosure
+
+## Changes and amendments
+
+## Acceptance of this policy
+
+## Contacting us
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UmarAuna/Privacy-Policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
