@@ -4,10 +4,9 @@ You can use the [editor on GitHub](https://github.com/UmarAuna/Privacy-Policy/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Privacy policy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+This privacy policy ("Policy") describes how Website Operator ("Website Operator", "we", "us" or "our") collects, protects and uses the personally identifiable information ("Personal Information") you ("User", "you" or "your") may provide on the https://umarauna.github.io/Privacy-Policy/ website and any of its products or services (collectively, "Website" or "Services"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 ```markdown
 Syntax highlighted code block
 
